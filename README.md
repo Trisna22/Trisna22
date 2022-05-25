@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Tris
 <!--
 **Trisna22/Trisna22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+⚡ Hello there! ⚡  
+I'm a Cyber Security and Software Engineering student.  
+And crazy for reverse engineering and binary exploitation.
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trisna22&hide=javascript,css,scss,html&theme=dracula)
