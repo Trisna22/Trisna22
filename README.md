@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ⚡ Hello there! ⚡  
 I'm a Cyber Security and Software Engineering BSc.  
 And crazy for reverse engineering and binary exploitation.
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trisna22&hide=javascript,css,scss,html&theme=dracula)
