@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 
 ⚡ Hello there! ⚡  
-I'm a Cyber Security and Software Engineering BSc.  
-And crazy for reverse engineering and binary exploitation.
+I'm an Ethical Hacker by day and a Programmer at night.  
+And crazy for reverse engineering and binary exploitation.  
