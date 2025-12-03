@@ -27,6 +27,6 @@ I graduated with a Bachelor of Science in Cyber Security and Software Engineerin
 <img align="left" src="soc-ca.png" width="100" height="100">
 </br></br></br></br>
 
-## Github Stats
+# Github Stats
 <img src="https://github-readme-stats.zohan.tech/api?username=Trisna22&show_icons=true&layout=compact&count_private=true&theme=tokyonight" width="380"><br /><br />
 <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Trisna22&langs_count=10&layout=compact&theme=tokyonight&hide=html,css,stylus" width="380"><br /><br />
