@@ -20,11 +20,7 @@ And crazy for reverse engineering and binary exploitation.
   
 I graduated with a Bachelor of Science in Cyber Security and Software Engineering and currently working as an ethical hacker/red teamer.
 # My hall of fame
-<img align="left" src="Zero-Point Security - Red Team Lead - 2025-06-19.png" width="100" height="100">
-<img align="left" src="Zero-Point Security - Red Team Operator - 2025-04-10.png" width="100" height="100">
-<img align="left" src="eMAPT.png" width="100" height="100">
-<img align="left" src="eWPT.png" width="100" height="100">
-<img align="left" src="soc-ca.png" width="100" height="100">
+<img align="left" src="badges.png" width="400" height="250">
 </br></br></br></br>
 
 # Github Stats
