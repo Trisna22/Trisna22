@@ -21,7 +21,7 @@ And crazy for reverse engineering and binary exploitation.
 I graduated with a Bachelor of Science in Cyber Security and Software Engineering and currently working as an ethical hacker/red teamer.
 # My hall of fame
 <img align="left" src="badges.png" width="400" height="250">
-</br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br>
 
 # Github Stats
 <img src="https://github-readme-stats.zohan.tech/api?username=Trisna22&show_icons=true&layout=compact&count_private=true&theme=tokyonight" width="380"><br /><br />
