@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 Hello there!
-Ethical Hacker by day and a Programmer at night.  
+Ethical Hacker by day and (Malware) Developer at night.  
 And crazy for reverse engineering and binary exploitation.  
   
 I graduated with a Bachelor of Science in Cyber Security and Software Engineering and currently working as an ethical hacker/red teamer.
